@@ -1,0 +1,15 @@
+C:\Users\eduar\source\repos\LeerXML\LeerXML\bin\Debug\net7.0\LeerXML.exe
+C:\Users\eduar\source\repos\LeerXML\LeerXML\bin\Debug\net7.0\LeerXML.deps.json
+C:\Users\eduar\source\repos\LeerXML\LeerXML\bin\Debug\net7.0\LeerXML.runtimeconfig.json
+C:\Users\eduar\source\repos\LeerXML\LeerXML\bin\Debug\net7.0\LeerXML.dll
+C:\Users\eduar\source\repos\LeerXML\LeerXML\bin\Debug\net7.0\LeerXML.pdb
+C:\Users\eduar\source\repos\LeerXML\LeerXML\obj\Debug\net7.0\LeerXML.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\LeerXML\LeerXML\obj\Debug\net7.0\LeerXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\source\repos\LeerXML\LeerXML\obj\Debug\net7.0\LeerXML.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\LeerXML\LeerXML\obj\Debug\net7.0\LeerXML.AssemblyInfo.cs
+C:\Users\eduar\source\repos\LeerXML\LeerXML\obj\Debug\net7.0\LeerXML.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\LeerXML\LeerXML\obj\Debug\net7.0\LeerXML.dll
+C:\Users\eduar\source\repos\LeerXML\LeerXML\obj\Debug\net7.0\refint\LeerXML.dll
+C:\Users\eduar\source\repos\LeerXML\LeerXML\obj\Debug\net7.0\LeerXML.pdb
+C:\Users\eduar\source\repos\LeerXML\LeerXML\obj\Debug\net7.0\LeerXML.genruntimeconfig.cache
+C:\Users\eduar\source\repos\LeerXML\LeerXML\obj\Debug\net7.0\ref\LeerXML.dll

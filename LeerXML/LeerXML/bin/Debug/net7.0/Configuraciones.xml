@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configurations>
+  <configsection name="roscadora">
+    <machine>MAQUINA1</machine>
+    <code>CODE1</code>
+    <filter>FILTER1</filter>
+  </configsection>
+
+  <configsection name="roscadora2">
+    <machine>MAQUINA2</machine>
+    <code>CODE2</code>
+    <filter>FILTER2</filter>
+  </configsection>
+</configurations>
